@@ -12,7 +12,7 @@ hide:
 | 3ジャン                     | オレンジと青の[ロール](./rolls/closed-open-open-closed.md)の1つ。 |
 | 4ジャン                     | オレンジと青の[ロール](./rolls/easy-4.md)の1つ。 |
 | 5 Waller                    | [壁まし(オレンジ)](./rolls/5-waller.md)ロールの英語名称。 |
-| 5 Wall Club                 | 壁抜けが最も難しい[壁まし](./rolls/5-waller.md)ロールで1ロール耐久したプレイヤーが属する一流グループ。 |
+| 5 Wall Club                 | 壁抜けが最も難しい[壁まし(オレンジ)](./rolls/5-waller.md)ロールで1ロール耐久したプレイヤーが属する一流グループ。 |
 | Alex ルート                 | [3ジャン+3ジャン](./variations/closed-open-open-closed.md)パターンの耐久[ルート](./variations/closed-open-open-closed.md#alex-ルート)の1つ。[alexjlockwood][alexjlockwood]にちなんで名づけられた。 |
 | Baby ルート                 | [3ジャン+大穴](./variations/closed-open-grand-canyon.md)パターンで、[外壁抜けルート](./variations/closed-open-grand-canyon.md#外壁抜けルート)を説明するのにつかわれる別称。他のルートに比べて外壁抜けルートが一番簡単であることからこの名前が付けられた。 |
 | City ルート                 | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#city-ルート)の1つ。[CityLimitsPK][CityLimitsPK]にちなんで名づけられた。 |
@@ -25,7 +25,7 @@ hide:
 | JD ルート                   | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/5-waller-open-closed.md#dytl-ルート)1つ。[Joey Dever][JD]にちなんで名づけられた。 |
 | Open-Closed                 | [3ジャン(青)](./rolls/closed-open-open-closed.md)ロールの英語名称。 |
 | PG ルート                   | [壁まし+3ジャン](./variations/5-waller-open-closed.md)パターンの耐久[ルート](./variations/closed-open-open-closed.md#pg-ルート)の1つ。[Prakhar Gupta][PG]にちなんで名づけられた。 |
-| Piggy ルート                | [3ジャン+大穴](./variations/closed-open-grand-canyon.md)パターンの耐久[ルート](./variations/closed-open-grand-canyon.md#piggyルート)の1つ。[Sweet Crying Deity][SweetCryingDeity] and named after [Roll Off Piggy][RollOffPiggy]によって発見された。 |
+| Piggy ルート                | [3ジャン+大穴](./variations/closed-open-grand-canyon.md)パターンの耐久[ルート](./variations/closed-open-grand-canyon.md#piggyルート)の1つ。[Sweet Crying Deity][SweetCryingDeity]によって発見され、[Roll Off Piggy][RollOffPiggy]にちなんで名づけられた。 |
 | Pillar Trench               | [壁まし(青)](./rolls/pillar-trench.md)ロールの英語名称。 |
 | Popper ルート               | [4ジャン+大穴](./variations/easy-4-grand-canyon.md)パターンの耐久[ルート](./variations/easy-4-grand-canyon.md#popper-ルート)の1つ。[lil_poppers][lil_poppers]にちなんで名づけられた。 |
 | Rainbow ルート              | [大穴](./rolls/grand-canyon.md)パターン([3ジャン](./variations/closed-open-grand-canyon.md#rainbow-ルート)、[壁まし](./variations/5-waller-grand-canyon.md#rainbow-ルート)、[中穴](./variations/isolated-duo-grand-canyon.md#rainbow-ルート))の耐久ルートの1つ。[RainbowStays][RainbowStays]にちなんで名づけられた。 |
